@@ -21,7 +21,7 @@ gem_group :development do
   gem 'marginalia'
 end
 
-gem_gruop :test do
+gem_group :test do
   gem 'rspec'
 end
 
